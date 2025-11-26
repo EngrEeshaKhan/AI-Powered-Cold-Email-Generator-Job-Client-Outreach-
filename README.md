@@ -49,19 +49,38 @@ Email is shown instantly on screen.
 
 ---
 
-.
-│
-├── Notebooks/
-│   ├── Home.py           # UI and main page
-│   ├── llama_email.py    # Backend email generation
-│
-├── References/
-│   ├── overview.md
-│   
-├──LIECENSE
-├── requirements.txt
-├── .gitignore
-└── README.md
+<img width="266" height="149" alt="image" src="https://github.com/user-attachments/assets/c5440af2-03f9-45f1-9418-7994567e3f42" />
 
+---
 
-Simple and easy-to-read codebase
+## Installation
+**Clone the repo:**
+git clone https://github.com/your-username/AI-Cold-Email-Generator.git
+cd AI-Cold-Email-Generator
+
+**Install dependencies:**
+pip install -r requirements.txt
+
+---
+
+## Usage
+
+Run the application:
+streamlit run Notebooks/Home.py
+
+**Steps:**
+
+Open the app in your browser.
+
+Enter job title, company name, and skills.
+
+Click Generate Email.
+
+Copy the generated email and use it anywhere.
+
+---
+
+## Configuration
+
+Set your Groq API key inside llama_email.py:
+GROQ_API_KEY = "your_api_key_here"
