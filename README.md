@@ -31,4 +31,37 @@ Skill-based customization
 
 Fast response from Groq API
 
+## How It Works
+
+User enters job details.
+
+A custom prompt is generated.
+
+The prompt is sent to the LLaMA 3 model via Groq API.
+
+AI returns a complete cold email.
+
+Email is shown instantly on screen.
+
+---
+
+## Project Structure
+
+---
+
+.
+│
+├── Notebooks/
+│   ├── Home.py           # UI and main page
+│   ├── llama_email.py    # Backend email generation
+│
+├── References/
+│   ├── overview.md
+│   
+├──LIECENSE
+├── requirements.txt
+├── .gitignore
+└── README.md
+
+
 Simple and easy-to-read codebase
