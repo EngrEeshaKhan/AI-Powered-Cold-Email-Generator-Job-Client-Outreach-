@@ -54,11 +54,15 @@ Email is shown instantly on screen.
 ---
 
 ## Installation
+
 **Clone the repo:**
+
 git clone https://github.com/your-username/AI-Cold-Email-Generator.git
+
 cd AI-Cold-Email-Generator
 
 **Install dependencies:**
+
 pip install -r requirements.txt
 
 ---
@@ -66,6 +70,7 @@ pip install -r requirements.txt
 ## Usage
 
 Run the application:
+
 streamlit run Notebooks/Home.py
 
 **Steps:**
@@ -83,4 +88,39 @@ Copy the generated email and use it anywhere.
 ## Configuration
 
 Set your Groq API key inside llama_email.py:
+
 GROQ_API_KEY = "your_api_key_here"
+
+## Technologies Used
+
+Python
+
+Streamlit
+
+Groq API (LLaMA 3 model)
+
+Requests library
+
+HTML/CSS styling
+
+## Future Enhancements
+
+Automatic resume parsing
+
+Email tone selector
+
+Multi-template email styles
+
+Export email as PDF
+
+Save email history
+
+---
+
+## License
+
+
+
+## Acknowledgements
+
+Thanks to Groq for their fast API and to Streamlit for making UI development simple.
