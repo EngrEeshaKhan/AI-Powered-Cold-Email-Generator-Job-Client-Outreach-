@@ -49,7 +49,7 @@ Email is shown instantly on screen.
 
 ---
 
-<img width="266" height="149" alt="image" src="https://github.com/user-attachments/assets/c5440af2-03f9-45f1-9418-7994567e3f42" />
+<img width="320" height="200" alt="image" src="https://github.com/user-attachments/assets/c5440af2-03f9-45f1-9418-7994567e3f42" />
 
 ---
 
@@ -119,6 +119,9 @@ Save email history
 
 ## License
 
+This project is licensed under the MIT License.
+
+You are free to modify and use it with attribution.
 
 
 ## Acknowledgements
