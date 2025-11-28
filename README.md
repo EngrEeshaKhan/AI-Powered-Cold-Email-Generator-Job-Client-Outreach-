@@ -1,6 +1,13 @@
 # AI-Powered-Cold-Email-Generator-Job-Client-Outreach-
 Generate personalized cold emails for job applications, sales, or client pitches — using generative LLMs and user input.
-- [Project Overview](#project-overview)
+## Project Overview
+
+This project is a simple and effective tool that generates professional cold emails using AI. The Streamlit interface collects user input and the backend uses Groq’s LLaMA 3 model to craft a polished, ready-to-use email.
+
+It helps job seekers, students, and freelancers create clear outreach messages quickly.
+
+---
+
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Project Structure](#project-structure)
@@ -11,15 +18,6 @@ Generate personalized cold emails for job applications, sales, or client pitches
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
-
-
-## Project Overview
-
-This project is a simple and effective tool that generates professional cold emails using AI. The Streamlit interface collects user input and the backend uses Groq’s LLaMA 3 model to craft a polished, ready-to-use email.
-
-It helps job seekers, students, and freelancers create clear outreach messages quickly.
-
----
 
 ## Features
 
@@ -57,7 +55,7 @@ Email is shown instantly on screen.
 
 **Clone the repo:**
 
-git clone https://github.com/your-username/AI-Cold-Email-Generator.git
+git clone 
 
 cd AI-Cold-Email-Generator
 
