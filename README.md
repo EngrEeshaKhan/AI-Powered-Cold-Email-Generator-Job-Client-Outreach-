@@ -8,6 +8,7 @@ It helps job seekers, students, and freelancers create clear outreach messages q
 
 ---
 
+## Table of Content
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Project Structure](#project-structure)
@@ -55,7 +56,7 @@ Email is shown instantly on screen.
 
 **Clone the repo:**
 
-git clone 
+git clone https://github.com/EngrEeshaKhan/AI-Powered-Cold-Email-Generator-Job-Client-Outreach-
 
 cd AI-Cold-Email-Generator
 
