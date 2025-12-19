@@ -125,4 +125,4 @@ You are free to modify and use it with attribution.
 
 ## Acknowledgements
 
-Thanks to Groq for their fast API and to Streamlit for making UI development simple.
+Thanking to Groq for their fast API and to Streamlit for making UI development simple.
