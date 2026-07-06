@@ -22,7 +22,7 @@ It helps job seekers, students, and freelancers create clear outreach messages q
 
 ## Features
 
-Clean, modern homepage
+Clean, modern homepage.
 
 AI-generated cold emails
 
