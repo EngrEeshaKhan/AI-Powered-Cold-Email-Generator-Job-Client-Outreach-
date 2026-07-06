@@ -104,7 +104,7 @@ HTML/CSS styling
 
 ## Future Enhancements
 
-Automatic resume parsing
+Automatic resume parsing.
 
 Email tone selector
 
