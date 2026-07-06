@@ -24,7 +24,7 @@ It helps job seekers, students, and freelancers create clear outreach messages q
 
 Clean, modern homepage.
 
-AI-generated cold emails
+AI-generated cold emails.
 
 Skill-based customization
 
