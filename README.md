@@ -120,7 +120,7 @@ Save email history.
 
 This project is licensed under the MIT License
 
-You are free to modify and use it with attribution.
+You are free to modify and use it with attribution
 
 
 ## Acknowledgements
