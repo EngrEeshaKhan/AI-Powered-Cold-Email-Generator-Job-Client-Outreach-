@@ -112,7 +112,7 @@ Multi-template email styles.
 
 Export email as PDF.
 
-Save email history
+Save email history.
 
 ---
 
