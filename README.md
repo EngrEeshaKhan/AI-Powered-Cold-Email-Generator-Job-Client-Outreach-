@@ -110,7 +110,7 @@ Email tone selector.
 
 Multi-template email styles.
 
-Export email as PDF
+Export email as PDF.
 
 Save email history
 
