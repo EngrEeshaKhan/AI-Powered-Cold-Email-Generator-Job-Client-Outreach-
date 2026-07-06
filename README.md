@@ -106,7 +106,7 @@ HTML/CSS styling
 
 Automatic resume parsing.
 
-Email tone selector
+Email tone selector.
 
 Multi-template email styles
 
