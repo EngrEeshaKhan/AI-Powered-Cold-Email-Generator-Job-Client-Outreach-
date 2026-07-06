@@ -26,7 +26,7 @@ Clean, modern homepage.
 
 AI-generated cold emails.
 
-Skill-based customization
+Skill-based customization.
 
 Fast response from Groq API
 
