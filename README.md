@@ -118,7 +118,7 @@ Save email history.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
 
 You are free to modify and use it with attribution.
 
