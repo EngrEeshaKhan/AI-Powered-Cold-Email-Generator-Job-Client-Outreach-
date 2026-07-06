@@ -108,7 +108,7 @@ Automatic resume parsing.
 
 Email tone selector.
 
-Multi-template email styles
+Multi-template email styles.
 
 Export email as PDF
 
