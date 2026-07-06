@@ -86,7 +86,7 @@ Copy the generated email and use it anywhere.
 
 ## Configuration
 
-Set your Groq API key inside llama_email.py:
+Set your Groq API key inside llama_email.py
 
 GROQ_API_KEY = "your_api_key_here"
 
