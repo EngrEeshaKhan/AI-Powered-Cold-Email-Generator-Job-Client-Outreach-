@@ -28,7 +28,7 @@ AI-generated cold emails.
 
 Skill-based customization.
 
-Fast response from Groq API
+Fast response from Groq API.
 
 ## How It Works
 
